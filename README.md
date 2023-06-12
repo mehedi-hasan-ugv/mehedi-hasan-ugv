@@ -17,7 +17,7 @@ Skills: Andriod / Python / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mehedi-hasan-ugv&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mehedi-hasan-ugv)  
+  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mehedi-hasan-ugv)  
 
